@@ -21,6 +21,7 @@ function App() {
           <Route path="/project/:id" element={<ProjectDisplay />} />
           <Route path="/experience" element={<Experience />} />
         </Routes>
+<Home />
         <Footer />
       </Router>
     </div>
