@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/aryanseth9795.github.io/my_portfolio/static/css/main.0739fe21.css",
-    "main.js": "/aryanseth9795.github.io/my_portfolio/static/js/main.537c9a55.js",
-    "static/media/bg1.jpg": "/aryanseth9795.github.io/my_portfolio/static/media/bg1.4ffdf9bd116a55aabbdc.jpg",
-    "static/media/aryan.jpg": "/aryanseth9795.github.io/my_portfolio/static/media/aryan.a61bdb2e92f993575fd0.jpg",
-    "static/media/proj2.jpg": "/aryanseth9795.github.io/my_portfolio/static/media/proj2.496e4d289eaa0f409ab8.jpg",
-    "index.html": "/aryanseth9795.github.io/my_portfolio/index.html",
-    "main.0739fe21.css.map": "/aryanseth9795.github.io/my_portfolio/static/css/main.0739fe21.css.map",
-    "main.537c9a55.js.map": "/aryanseth9795.github.io/my_portfolio/static/js/main.537c9a55.js.map"
+    "main.css": "/my_portfolio/static/css/main.0739fe21.css",
+    "main.js": "/my_portfolio/static/js/main.186d4412.js",
+    "static/media/bg1.jpg": "/my_portfolio/static/media/bg1.4ffdf9bd116a55aabbdc.jpg",
+    "static/media/aryan.jpg": "/my_portfolio/static/media/aryan.a61bdb2e92f993575fd0.jpg",
+    "static/media/proj2.jpg": "/my_portfolio/static/media/proj2.496e4d289eaa0f409ab8.jpg",
+    "index.html": "/my_portfolio/index.html",
+    "main.0739fe21.css.map": "/my_portfolio/static/css/main.0739fe21.css.map",
+    "main.186d4412.js.map": "/my_portfolio/static/js/main.186d4412.js.map"
   },
   "entrypoints": [
     "static/css/main.0739fe21.css",
-    "static/js/main.537c9a55.js"
+    "static/js/main.186d4412.js"
   ]
 }
